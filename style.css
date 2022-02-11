@@ -1,0 +1,163 @@
+.main {
+  margin: 30px;
+  font-size: 40px;
+  margin-left: 350px;
+  margin-bottom: 40;
+  text-shadow: 0px 0px 5px yellow;
+  color: brown;
+}
+.table {
+  margin-left: 700px;
+}
+td {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  font-size: 30px;
+  color: purple;
+  padding-left: 1em;
+}
+i {
+  padding-right: 0.7em;
+  color: black;
+  font-size: 20px;
+  border: 1px solid white;
+  width: 5px;
+}
+.main1 {
+  display: flex;
+  margin-left: 750px;
+}
+.input {
+  width: 250px;
+  height: 30px;
+  padding-left: 20px;
+  box-shadow: 2px 2px 1px red;
+  border-right: 0px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.input1 {
+  width: 50px;
+  height: 30px;
+  background-color: green;
+  border-left: 0px;
+  border-radius: 5px;
+}
+body {
+  background-image: url(https://tse1.mm.bing.net/th?id=OIP.OQZx7L5mH20yiD043TE8LAHaE8&pid=Api&P=0&w=241&h=160);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.update {
+  margin: 30px;
+  font-size: 40px;
+  margin-left: 500px;
+  margin-bottom: 40;
+  text-shadow: 0px 0px 5px rgb(158, 158, 120);
+  color: brown;
+  text-decoration: underline;
+}
+.td {
+  font-size: 30px;
+  font-weight: bold;
+}
+.uptable {
+  margin-left: 650px;
+}
+.btn {
+  margin-left: 900px;
+  width: 140px;
+  background-color: green;
+  color: rgb(10, 10, 194);
+  height: 30px;
+  border-radius: 10px;
+  font-weight: bold;
+}
+.in {
+  width: 200px;
+  box-shadow: 2px 2px 1px red;
+  height: 30px;
+  text-align: center;
+  font-weight: bold;
+}
+fieldset {
+  width: 40%;
+  height: 75px;
+  margin-left: 450px;
+  margin-top: 100px;
+}
+legend {
+  color: rgb(55, 55, 145);
+  font-size: 30px;
+}
+.btn1 {
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  color: rgb(46, 46, 158);
+  background-color: green;
+  margin-left: 650px;
+}
+.inside {
+  width: 500px;
+  margin: 10px;
+  height: 30px;
+  border: 0px;
+  outline: 0px;
+  background: transparent;
+  box-shadow: 2px 2px 5px red;
+}
+.remove {
+  margin: 30px;
+  font-size: 50px;
+  margin-left: 500px;
+  margin-bottom: 40;
+  text-shadow: 0px 0px 5px yellow;
+  color: brown;
+  text-decoration: underline 1px;
+}
+label {
+  font-size: 40px;
+  margin-right: 20px;
+}
+input {
+  width: 200px;
+  height: 30px;
+  box-shadow: 2px 2px 5px red;
+}
+table {
+  margin-left: 700px;
+  margin-top: 200px;
+}
+.btn2 {
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  color: rgb(46, 46, 158);
+  background-color: green;
+  margin-left: 1000px;
+}
+.table5 {
+  margin-top: 60px;
+}
+#btn {
+  margin-left: 950px;
+  font-weight: bold;
+}
+.main3 {
+  margin: 30px;
+  font-size: 40px;
+  margin-left: 500px;
+  margin-bottom: 40;
+  text-shadow: 0px 0px 5px yellow;
+  color: brown;
+  text-decoration: underline 1px;
+}
+.s {
+  text-align: center;
+  font-weight: bold;
+}
+.t {
+  text-align: end;
+  font-weight: bold;
+}
